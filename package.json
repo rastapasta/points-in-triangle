@@ -1,6 +1,6 @@
 {
   "name": "points-in-triangle",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Calculate all points inside any triangle",
   "main": "index.js",
   "repository": {

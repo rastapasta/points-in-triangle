@@ -4,6 +4,7 @@ A node.js library helping you to process all rasterized points in any 2D triangl
 
 ## How does it work?
 
+* Implementation of [Bresenham Triangle Rasterization](http://www.sunshine2k.de/coding/java/TriangleRasterization/TriangleRasterization.html#algo3)
 * Triangle sides are determined using [bresenham](https://github.com/madbence/node-bresenham)
 * All points in the triangle are iterated and passed to the callback.
 
