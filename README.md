@@ -1,11 +1,11 @@
 # points-in-triangle
 
-A node.js library helping you to simply process all rasterized points in any given 2D triangle.
+A node.js library helping you to process all rasterized points in any 2D triangle.
 
 ## How does it work?
 
 * Triangle sides are determined using [bresenham](https://github.com/madbence/node-bresenham)
-* All points in each triangle are iterated and passed to the callback.
+* All points in the triangle are iterated and passed to the callback.
 
 ## How to install
 

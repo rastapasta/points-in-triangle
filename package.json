@@ -1,11 +1,11 @@
 {
   "name": "points-in-triangle",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Calculate all points inside any triangle",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rastapasta/points-in-polygon.git"
+    "url": "https://github.com/rastapasta/points-in-triangle.git"
   },
   "keywords": [
     "triangle",
