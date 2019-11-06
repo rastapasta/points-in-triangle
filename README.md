@@ -1,5 +1,7 @@
 # points-in-triangle
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rastapasta/points-in-triangle.svg)](https://greenkeeper.io/)
+
 A node.js library helping you to process all rasterized points in any 2D triangle.
 
 ## How does it work?
